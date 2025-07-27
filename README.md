@@ -62,7 +62,6 @@ Yes, that's it. Let's execute it. There are actually two ways to reach the top. 
 
 ![Screenshot](images/10.png)
 
-
-
-
+Conclusion :
+While not technically complex, DOUBLE: 1 requires participants to think strategically, thoroughly observe file structures and systems, and systematically organize exploitation steps. Its added value lies in the nested machine concept, which is rare in beginner-intermediate CTFs and provides an extra challenge while realistically simulating complex infrastructure.
 ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tmcGtqdW5xbmk5czVrbmptaGx3cWxyM3dpMjM4ZzU3NWxkYjE1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQG644PY8O7rG/giphy.gif)
